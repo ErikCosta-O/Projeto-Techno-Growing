@@ -1,6 +1,6 @@
 # Projeto Techno Growing
 <h3>Em resumo esse projeto ainda não esta finalizado.<br>
-Abaixo tem a previa das paginas
+Previa das Páginas
 <div align="center">
 <hr>
 <h2>Página Inicial
